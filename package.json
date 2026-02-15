@@ -1,6 +1,6 @@
 {
   "name": "@frosted/array-at",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the item at a specified index in an array, allowing for positive and negative integers",
   "keywords": [
     "10xly",

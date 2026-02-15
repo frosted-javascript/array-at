@@ -21,7 +21,7 @@ Shimming Array.prototype.at:
 ```js
 require("@frosted/array-at/shim")
 
-console.log([1, 2, 3].at()) // [3, 2, 1]
+console.log([1, 2, 3].at(1)) // 2
 ```
 
 ## Tests
