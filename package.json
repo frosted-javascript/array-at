@@ -1,0 +1,41 @@
+{
+  "name": "@frosted/array-at",
+  "version": "1.0.0",
+  "description": "Get the item at a specified index in an array, allowing for positive and negative integers",
+  "keywords": [
+    "10xly",
+    "made",
+    "is-hundred",
+    "frosted-javascript"
+  ],
+  "homepage": "https://github.com/frosted-javascript/array-at#readme",
+  "bugs": {
+    "url": "https://github.com/frosted-javascript/array-at/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frosted-javascript/array-at.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly Made / Frosted",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@10xly/strict-equals": "^1.0.1",
+    "@frosted/array-reverse": "^1.0.0",
+    "@is-(unknown)/is-array": "^1.0.2",
+    "@not-js/not": "^1.1.1",
+    "add-one": "^1.0.3",
+    "define-properties": "^1.2.1",
+    "immediate-error": "^2.0.0",
+    "is-negative": "^2.1.0",
+    "lolite.abs": "^1.1.17",
+    "ununcurry-this-x": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.5"
+  }
+}
